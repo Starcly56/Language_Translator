@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    font-family: cursive;
+    font-size: xx-large;
+    width: 100%;
+}
+
+header p {
+    text-align: center;
+}
+
+#description {
+    width: 100%;
+    text-align: center;
+}
